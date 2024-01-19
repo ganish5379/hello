@@ -87,5 +87,8 @@ public class Hello {
         }
         System.out.println("Muvaffaqiyatli ruyxatdan o'tdingiz");
         qaytish();
+
+
+
     }
 }
