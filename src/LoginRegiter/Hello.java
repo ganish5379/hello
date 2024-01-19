@@ -91,4 +91,7 @@ public class Hello {
 
 
     }
+    public String checkEmail(){
+        return "salom";
+    }
 }
